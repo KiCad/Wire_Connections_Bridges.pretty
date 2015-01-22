@@ -1,4 +1,4 @@
-(module WireConnection_0-8mmDrill_ThinPad (layer F.Cu) (tedit 54C11628)
+(module WireConnection_0-8mmDrill_ThinPad (layer F.Cu) (tedit 54C116A8)
   (fp_text reference WireConnection_0-8mmDrill_ThinPad (at -0.2286 0.2032) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
